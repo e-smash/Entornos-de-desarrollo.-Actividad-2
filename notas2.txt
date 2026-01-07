@@ -1,1 +1,2 @@
 Esta es la segunda nota para ver que funciona y realizar commits.
+Añado esto para realizar conflicto.
