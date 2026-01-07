@@ -23,7 +23,8 @@ Nota creada para el html de la página web.
               <h1 class="display-5 fw-bold mb-3">Juan Diego Puentes Rodríguez</h1>
               <p class="lead mb-0">
                 Soy Juan Diego, una persona curiosa y motivada que disfruta aprendiendo
-                sobre tecnología y mejorando cada día con nuevos retos.
+                sobre tecnología y mejorando cada día con nuevos retos. Esto lo estoy añadiendo
+		para hacer un commit nuevo.
               </p>
             </div>
           </div>
